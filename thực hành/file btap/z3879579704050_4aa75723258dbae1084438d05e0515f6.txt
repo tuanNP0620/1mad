@@ -1,0 +1,9 @@
+The data in row 1 was not committed.
+Error Source: .Net SqlClient Data Provider.
+
+Error Message: The INSERT statement conflicted with the FOREIGN
+KEY constraint "FK_CAULACBO_TINH’. The conflict occurred in
+database “test1", table “dbo.TINH’, column ‘MATINH’,
+
+The statement has been terminated.
+
